@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aacash-Srinath
 - 👀 Interested in Coding, Basketball, Tech, Cars & Bikes.
-- 🌱 Currently learning C/C++ Language.
+- 🌱 Lanaguages :: C, C++, Java, Python
 - 📫 How to reach me :: IG @aacash.srinath
 
 <!---
