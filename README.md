@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aacash-Srinath
-- 👀 Interested in Coding, Basketball, Tech, Cars & Bikes.
-- 🌱 Lanaguages :: C, C++, Java, Python
-- 📫 How to reach me :: IG @aacash.srinath
+- 👀 Interested in Coding & Tech.
+- 🌱 Lanaguages :: C, C++, Java, Python, HTML, CSS, JavaScript
 
 <!---
 Aacash-Srinath/Aacash-Srinath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
