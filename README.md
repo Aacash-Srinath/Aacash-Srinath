@@ -1,6 +1,14 @@
-# 💫 About Me:
-Hey!! I'm Aacash Srinath Nambiar. I am a student of VIT Chennai, India, currently pursuing Bachelors of Technology in Computer Science & Engineering with specialization in Artificial Intelligence and Machine Learning. This is my Github profile. I work on small scale personal projects for building up my coding portfolio. I am an aspiring Web Developer. You can find various projects that I have done/am doing, including mini projects implementing Web Development.
-You can reach me using my Instagram or Twitter or via Email: aacash2003@gmail.com
+Hi 👋 My name is Aacash Srinath Nambiar
+=======================================
+
+Web Developer/Software Developer
+--------------------------------
+
+I am a student of VIT Chennai, India, currently pursuing Bachelors of Technology in Computer Science & Engineering with specialization in Artificial Intelligence and Machine Learning. This is my Github profile. I work on small scale personal projects for building up my coding portfolio. I am an aspiring Web Developer. You can find various projects that I have done/am doing, including mini projects implementing Web Development. You can reach me via my socials or email.
+
+* 🌍  I'm based in Chennai, India
+* ✉️  You can contact me at [aacash2003@gmail.com](mailto:aacash2003@gmail.com)
+* 🧠  I'm learning HTML5, CSS, JavaScript
 
 
 ## 🌐 Socials:
