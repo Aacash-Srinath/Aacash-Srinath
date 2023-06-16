@@ -10,9 +10,6 @@ I am a student of VIT Chennai, India, currently pursuing Bachelors of Technology
 * ✉️  You can contact me at [aacash2003@gmail.com](mailto:aacash2003@gmail.com)
 * 🧠  I'm learning TensorFlow, Kubernetes, ML in Python
 
-<a href="https://www.github.com/Aacash-Srinath" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Aacash-Srinath?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
-
 ### Skills
 
 
