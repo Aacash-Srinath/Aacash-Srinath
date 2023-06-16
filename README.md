@@ -4,11 +4,11 @@ Hi 👋 My name is Aacash Srinath Nambiar
 Student | Aspiring Data Analyst/ML Engineer
 --------------------------------
 
-I am a student of VIT Chennai, India, currently pursuing Bachelors of Technology in Computer Science & Engineering with specialization in Artificial Intelligence and Machine Learning. This is my Github profile. I work on small scale personal projects for building up my coding portfolio. I am an aspiring Web Developer. You can find various projects that I have done/am doing, including mini projects implementing Web Development. You can reach me via my socials or email.
+I am a student of VIT Chennai, India, currently pursuing Bachelors of Technology in Computer Science & Engineering with specialization in Artificial Intelligence and Machine Learning. This is my Github profile. I work on small scale personal projects for building up my coding portfolio. I am an aspiring Data Analyst/ML Engineer. You can find various projects that I have done/am doing, including mini projects for Web Development, Machine Learning Models, AnalyticsVidhya Competitions, etc. You can reach me via my socials or email.
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [aacash2003@gmail.com](mailto:aacash2003@gmail.com)
-* 🧠  I'm learning HTML5, CSS, JavaScript
+* 🧠  I'm learning TensorFlow, Kubernetes, ML in Python
 
 <a href="https://www.github.com/Aacash-Srinath" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Aacash-Srinath?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
