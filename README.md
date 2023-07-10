@@ -8,7 +8,7 @@ I am a student of VIT Chennai, India, currently pursuing Bachelors of Technology
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [aacash2003@gmail.com](mailto:aacash2003@gmail.com)
-* 🧠  I'm learning TensorFlow, Kubernetes, ML in Python
+* 🧠  I'm learning TensorFlow, Keras
 
 ### Skills
 
