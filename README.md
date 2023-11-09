@@ -7,7 +7,7 @@ Student | Aspiring Data Analyst/ML Engineer
 I am a student of VIT Chennai, India, currently pursuing Bachelors of Technology in Computer Science & Engineering with specialization in Artificial Intelligence and Machine Learning. This is my Github profile. I work on small scale personal projects for building up my coding portfolio. I am an aspiring Data Analyst/ML Engineer. You can find various projects that I have done/am doing, including mini projects for Web Development, Machine Learning Models, AnalyticsVidhya Competitions, etc. You can reach me via my socials or email.
 
 * 🌍  I'm based in Chennai, India
-* ✉️  You can contact me at [aacash2003@gmail.com](mailto:aacash2003@gmail.com)
+* ✉️  You can contact me at [srinathaacash@gmail.com](mailto:srinathaacash@gmail.com)
 * 🧠  I'm learning TensorFlow, Keras
 
 ### Skills
