@@ -8,7 +8,6 @@ I am a student of VIT Chennai, India, currently pursuing Bachelors of Technology
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [srinathaacash@gmail.com](mailto:srinathaacash@gmail.com)
-* 🧠  I'm learning TensorFlow, Keras
 
 ### Skills
 
